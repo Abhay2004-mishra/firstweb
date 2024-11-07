@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+header{
+    background-color: blueviolet;
+}
+
+h1{
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: xx-large;
+    text-align: center;
+
+}
+p{
+    color: gold;
+    font-weight: 800;
+    text-decoration: aliceblue;
+    text-transform: uppercase;
+
+    
+}
+button{
+    color: aqua;
+    background-color: black;
+    border-radius: 50%;
+    font-style: italic;
+    font-family: cursive;
+    display: inline-flex;
+
+}
+main{
+    background-color: pink;
+
+}
+article{
+    text-transform: lowercase;
+    color: black;
+    font-size: medium;
+}
+img{
+    border: 5px solid black;
+    display: inline-flex;
+
+
+}
+footer{
+    background-color: black;
+    margin: 0%;
+    padding:10px;
+    border: 5px solid black;
+}
+ol{
+    color: blanchedalmond;
+    text-transform: uppercase;
+    text-align: center;
+}
+ul{
+    color: red;
+    text-align: center;
+}
